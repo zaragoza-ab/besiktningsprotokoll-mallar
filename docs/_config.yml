@@ -1,0 +1,10 @@
+title: "Swedish Construction Inspection Protocol Templates"
+description: "Open templates for Swedish construction inspections — slutbesiktning, garantibesiktning, statusbesiktning per AB 04 and ABS 18."
+theme: jekyll-theme-cayman
+plugins: [jekyll-sitemap, jekyll-seo-tag]
+url: "https://zaragoza-ab.github.io"
+baseurl: "/besiktningsprotokoll-mallar"
+author:
+  name: "Zaragoza AB"
+  email: "info@zaragoza.se"
+  url: "https://zaragoza.se"

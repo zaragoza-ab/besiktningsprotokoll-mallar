@@ -1,12 +1,51 @@
 cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
 title: "Swedish Construction Inspection Protocol Templates"
-message: "If you use this work, please cite it."
-type: software
+abstract: >-
+  Open collection of inspection protocol (besiktningsprotokoll) templates for
+  Swedish construction contracts. Covers slutbesiktning (final inspection),
+  garantibesiktning (warranty inspection), and statusbesiktning (status
+  inspection) aligned with AB 04 and ABS 18 standard contracts. Includes
+  checklists grounded in Konsumenttjänstlagen (KTjL), AB 04 §7, and
+  ABS 18 §16 provisions. For construction professionals, besiktningsmän,
+  and legal/compliance automation.
 authors:
   - name: "Zaragoza AB"
-    city: Helsingborg
+    affiliation: "Zaragoza AB, Helsingborg, Sweden"
+    city: "Helsingborg"
     country: SE
+    email: "info@zaragoza.se"
     website: "https://zaragoza.se"
-repository-code: "https://github.com/zaragoza-ab/besiktningsprotokoll-mallar"
 license: CC-BY-4.0
+repository-code: "https://github.com/zaragoza-ab/besiktningsprotokoll-mallar"
+version: "1.0.0"
 date-released: "2026-04-17"
+keywords:
+  - "swedish construction"
+  - "besiktning"
+  - "inspection"
+  - "slutbesiktning"
+  - "garantibesiktning"
+  - "statusbesiktning"
+  - "AB 04"
+  - "ABS 18"
+  - "KTjL"
+  - "templates"
+  - "construction contracts"
+identifiers:
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q139393819"
+    description: "Wikidata entity"
+  - type: other
+    value: "Q139393819"
+    description: "Wikidata QID"
+preferred-citation:
+  type: dataset
+  title: "Swedish Construction Inspection Protocol Templates"
+  authors:
+    - name: "Zaragoza AB"
+      affiliation: "Zaragoza AB, Helsingborg, Sweden"
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/zaragoza-ab/besiktningsprotokoll-mallar"
